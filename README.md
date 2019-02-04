@@ -16,16 +16,20 @@ it may help someone out there that want to simply control a couple of single val
 
 ## Installation
 
-download the zip from git and extract it
-rename the directory blender28_addosc, and copy it to blender/2.80/scripts/addons/
-start up blender, find and enable the addon (addosc_foul).
+1) download the zip from git and extract it
+
+2) rename the directory blender28_addosc, and copy it to blender/2.80/scripts/addons
+
+3) start up blender, find and enable the addon (addosc_foul).
 
 in the /example/ directory there are 2 .blend files:
 
 addosc_example_simple.blend - a simple example, with 9 bindings to a cube.
+
 addosc_example_animation_nodes - an example with a bunch of scripts to control animation nodes.
 
 or just use and import keying sets (press k on a object property to add it, like you would add keyframes with i)
+
 tested and working with blender 2.8 beta for windows x64 released as of february 2, 2019.
 
 ## Notes
