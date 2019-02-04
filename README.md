@@ -21,6 +21,7 @@ rename the directory blender28_addosc, and copy it to blender/2.80/scripts/addon
 start up blender, find and enable the addon (addosc_foul).
 
 in the /example/ directory there are 2 .blend files:
+
 addosc_example_simple.blend - a simple example, with 9 bindings to a cube.
 addosc_example_animation_nodes - an example with a bunch of scripts to control animation nodes.
 
