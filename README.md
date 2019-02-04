@@ -9,7 +9,7 @@ i basically took maybites' code, undid his added functionality (and functions),
 and drove the dispatcher back to JPfeP's old function,
 that didn't have looping the OSC_keys broken out of the dispatcher. (sorry about that maybites)
 
-nothing special, i just needed this quick and drty hack for myself,
+nothing special, i just needed this quick and dirty hack for myself,
 as maybites' fork gave me script errors trying to start a server with OSC_key values in place
 
 it may help someone out there that want to simply control a couple of single values to drive without having to change existing script/blend files around.
